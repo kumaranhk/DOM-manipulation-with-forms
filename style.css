@@ -1,0 +1,20 @@
+.main{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border: 1px solid black;
+}
+.radio{
+    width: 20%;
+}
+input{
+    border: 1px solid black !important;
+}
+form{
+    margin: 0% 5% 5% 5% !important;
+    width: 100% !important;
+}
+p,h1 {
+    margin-left: 10%;
+}
