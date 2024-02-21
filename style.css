@@ -18,3 +18,29 @@ form{
 p,h1 {
     margin-left: 10%;
 }
+
+@media screen and (max-width: 780px) and (min-width: 510px){
+    form{
+        width: 80% !important;
+    }
+}
+
+@media screen and (max-width: 1300px) and (min-width: 0px){
+    .table{
+        overflow: auto;
+    }
+}
+@media screen and (max-width: 509px) and (min-width: 320px){
+    *{
+        font-size: small;
+    }
+    form{
+        width: 80% !important;
+    }
+    h1{
+        font-size: medium;
+    }
+    p{
+        font-size: 11px;
+    }
+}
